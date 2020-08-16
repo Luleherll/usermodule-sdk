@@ -1,5 +1,5 @@
 {
-  "name": "web-components",
+  "name": "shadow-components",
   "version": "1.0.0",
   "description": "A library of reusable web components",
   "main": "lib/index.js",
@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Luleherll/web-components.git"
+    "url": "https://github.com/Luleherll/shadow-components.git"
   },
   "bugs": {
-    "url": "https://github.com/Luleherll/web-components/issues"
+    "url": "https://github.com/Luleherll/shadow-components/issues"
   },
-  "homepage": "https://github.com/Luleherll/web-components#readme",
+  "homepage": "https://github.com/Luleherll/shadow-components#readme",
   "keywords": [
     "web components",
     "shadow dom",

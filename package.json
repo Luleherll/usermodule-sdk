@@ -1,0 +1,31 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "A library of reusable web components",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luleherll/web-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luleherll/web-components/issues"
+  },
+  "homepage": "https://github.com/Luleherll/web-components#readme",
+  "keywords": [
+    "web",
+    "components",
+    "shadow",
+    "dom",
+    "reusable",
+    "component"
+  ],
+  "author": "Herman Lule",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}

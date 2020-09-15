@@ -1,7 +1,7 @@
 {
-  "name": "shadow-components",
+  "name": "usermodule",
   "version": "0.0.1",
-  "description": "A library of reusable web components",
+  "description": "Node client for user module",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -20,17 +20,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Luleherll/shadow-components.git"
+    "url": "https://github.com/Luleherll/usermodule-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/Luleherll/shadow-components/issues"
+    "url": "https://github.com/Luleherll/usermodule-sdk/issues"
   },
-  "homepage": "https://github.com/Luleherll/shadow-components#readme",
+  "homepage": "https://github.com/Luleherll/usermodule-sdk#readme",
   "keywords": [
-    "web components",
-    "shadow dom",
-    "reusable",
-    "component"
+    "authentication",
+    "social auth",
+    "user module"
   ],
   "author": "Herman Lule",
   "license": "ISC",
